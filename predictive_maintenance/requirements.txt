@@ -1,0 +1,9 @@
+# Predictive Maintenance requirements
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+xgboost
+tensorflow>=2.0
+joblib
