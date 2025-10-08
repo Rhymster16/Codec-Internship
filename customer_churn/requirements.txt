@@ -1,0 +1,8 @@
+# Customer Churn requirements
+pandas
+numpy
+scikit-learn
+matplotlib
+imbalanced-learn
+xgboost
+joblib
